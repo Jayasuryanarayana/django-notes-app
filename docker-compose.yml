@@ -3,4 +3,4 @@ services:
   web:
      image: "jayasuryanarayana/notes-app:latest"
      ports:
-         -"8000:800"
+         -"8000:8000"
